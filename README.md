@@ -1,2 +1,2 @@
-# L1-L2-Regularization-Using-Scikit-Learn
-This Python workbook is implementation of L1 &amp; L2 Regularization using scikit-learn.
+# Ridge and Lasso Regularization Using Scikit Learn
+This Python workbook is implementation of LESSO_REGRESSION(L1 regularization) &amp; RIDGE REGRESSION (L2 regularization) using scikit-learn.
